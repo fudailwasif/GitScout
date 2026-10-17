@@ -6,7 +6,8 @@ GitScout is a responsive GitHub profile explorer built with **React, Tailwind CS
 
 ## Image 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b7db34b7-006b-4f31-a5d0-b5bccdd07c81" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/21d189c2-4986-430d-b1d9-2b738a7f3be0" />
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e26f4bd4-2cdb-41aa-924a-b1b67e7f956f" />
 
 ## Features
