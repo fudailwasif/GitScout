@@ -42,7 +42,7 @@ Make sure you have Node.js and npm installed.
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/fvyalwayshigh-sys/gitscout.git
+git clone https://github.com/fudailwasif/GitScout.git
 ```
 
 **2. Navigate to the project**
@@ -119,7 +119,7 @@ Building GitScout helped me practice:
 
 **Muhammad Fudail Wasif**
 
-[GitHub](https://github.com/fvyalwayshigh-sys) · [Portfolio](https://fudail-portfolio-mauve.vercel.app/)
+[GitHub](https://github.com/fudailwasif) · [Portfolio](https://fudail-portfolio-mauve.vercel.app/)
 
 ---
 
